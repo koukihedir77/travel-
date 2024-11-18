@@ -1,0 +1,44 @@
+.heroimage{
+    height: 500px;
+}
+
+#herosection{
+    display: flex;
+    justify-content: center;
+}
+#button{
+    display: flex;
+    justify-content: center;
+    color: blue;
+}
+.card{
+    display: flex;
+    text-align: center;
+   
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+#centerb{
+    display: flex;
+    justify-content: center;
+}
+
+.taili{
+    width: 280px;
+    height: 190px;
+}
+
+#Contact{
+    width: 60%;
+}
+
+#centC{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
